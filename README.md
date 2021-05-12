@@ -8,4 +8,4 @@
 #### 💻 My Public Projects:  
 - [dkcode.pl](https://dkcode.pl) (REACT.JS)  
 - [rosehc.pl](https://rosehc.pl) (NEXT.JS + SASS)  
-- [ts3ab.pl](https://ts3ab.pl) (NEXT.JS + HTML)  
+- [ts3ab.pl](https://ts3ab.pl) (NEXT.JS)  
