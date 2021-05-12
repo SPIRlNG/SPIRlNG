@@ -6,6 +6,6 @@ Discord: https://discord.gg/VnsmrZvCTn
 Website: https://spiring.site  
 
 💻 My Public Projects:  
-dkcode.pl (REACT)  
-rosehc.pl (NEXT.JS)  
+dkcode.pl (REACT.JS)  
+rosehc.pl (NEXT.JS + SASS)  
 ts3ab.pl (NEXT.JS + HTML)  
