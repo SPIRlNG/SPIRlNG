@@ -1,5 +1,5 @@
-Hi, im DeeKaPPy! 👋
-📞 Kontakt me:
+## Hi, im DeeKaPPy! 👋
+# 📞 Kontakt me:
 Email: deekappy@gmail.com
 Discord: https://dc.dkcode.pl
 Website: https://dkcode.pl
