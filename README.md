@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, im DeeKaPPy! 👋
+📞 Kontakt me:
+Email: deekappy@gmail.com
+Discord: https://dc.dkcode.pl
+Website: https://dkcode.pl
+⚒ So far I've used:
+React.js Javascript Node.js Express.js GitHub MongoDB MySQL Nginx Java
 
-<!--
-**SPIRlNG/SPIRlNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My Public Projects:
+l.dkcode.pl (NODE.JS)
+splashmc.pl (JAVA)
+crafteria.pl (NEXT.JS + JAVA)
+rosehc.pl (NODE.JS + JAVA)
+ts3ab.pl (NEXT.JS + C#)
