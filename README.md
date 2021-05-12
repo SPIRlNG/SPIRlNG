@@ -2,8 +2,8 @@
 
 #### 📞 Kontakt me:  
 Email: kontakt@spiring.site    
-Discord: https://discord.gg/VnsmrZvCTn  
 Website: https://spiring.site  
+Discord: SPIRING#0001  
 
 #### 💻 My Public Projects:  
 https://dkcode.pl (REACT.JS)  
