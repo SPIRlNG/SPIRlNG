@@ -2,7 +2,7 @@
   <h1> Hi, im SPIRING! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=SPIRlNG" alt="SPIRlNG" /><br/><br/>
 
-📞 Contakt me:<br>
+📞 Contact me:<br>
 Email: kontakt@spiring.site    
 Website: https://spiring.site  
 Discord: SPIRING#0010
