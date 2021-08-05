@@ -1,8 +1,8 @@
 <div align="center">
-  <h1> Hey, i'm SPIRING! 👋 </h1>
+  <h1> Hi, im SPIRING! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=SPIRlNG" alt="SPIRlNG" /><br/><br/>
 
-📞 Kontakt me:<br>
+📞 Contakt me:<br>
 Email: kontakt@spiring.site    
 Website: https://spiring.site  
 Discord: SPIRING#0010
