@@ -3,11 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=SPIRlNG" alt="SPIRlNG" /><br/><br/>
 
 📞 Kontakt me:  
-- Email: kontakt@spiring.site    
-- Website: https://spiring.site  
-- Discord: SPIRING#0001  
+Email: kontakt@spiring.site    
+Website: https://spiring.site  
+Discord: SPIRING#0010
 
-⚒ Languages and Tools<
+⚒ Languages and Tools<br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
