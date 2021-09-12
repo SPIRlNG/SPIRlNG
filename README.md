@@ -2,12 +2,12 @@
   <h1> Hi, im SPIRING! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=SPIRlNG" alt="SPIRlNG" /><br/><br/>
 
-📞 Contact me:<br>
-Email: kontakt@spiring.site    
-Website: https://spiring.site  
+Website: https://vercode.net  
 Discord: SPIRING#0010
 
-⚒ Languages and Tools:<br>
+
+Languages and Tools:<br>
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
