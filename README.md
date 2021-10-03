@@ -1,6 +1,7 @@
 ### Hi, I'm Kacper! 👋
+<img src="https://komarev.com/ghpvc/?username=SPIRING" alt="SPIRING" />
 
-###### - Junior Frontend Developer
+###### - Junior Frontend Developer 
 
 #### ⚒ Languages and Tools:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
