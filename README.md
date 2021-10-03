@@ -1,6 +1,6 @@
 ### Hi, I'm Kacper! 👋
 
-###### - Junior Front-end Developer
+###### - Junior Frontend Developer
 
 #### ⚒ Languages and Tools:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
