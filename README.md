@@ -24,4 +24,4 @@
 ###### - [ts3ab.pl](https://pgc24.pl) (Next.js + SASS)
 
 #### 📫 Social Media:
-###### - Discord: SPIRING#5244
+###### - Discord: SPIRING#0001
