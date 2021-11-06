@@ -30,4 +30,4 @@
 #
 **📊 Stats:**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SPIRING&show_icons=true&theme=tokyonight)](https://github.com/SPIRING/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SPIRlNG&show_icons=true&theme=tokyonight)](https://github.com/SPIRlNG/github-readme-stats)
