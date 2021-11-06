@@ -1,26 +1,33 @@
-### Hi, I'm Kacper! 👋
-<img src="https://komarev.com/ghpvc/?username=SPIRING" alt="SPIRING" />
+### Hi, I'm Kuba! 👋
+![](https://komarev.com/ghpvc/?username=sveenxx&label=PROFILE+VIEWS)
+#
 
-###### - Junior Frontend Developer 
+<img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
 
-#### ⚒ Languages and Tools:
-![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
-![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
+**📫 Contact:**
+
+- Discord: Sveen#0001
+- Email: hello@codestation.pl
+- Website: codestation.pl
+
+**⚒ Languages and Tools:**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) 
+![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
+![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-356c9a?style=flat&logo=Python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
-![SASS](https://img.shields.io/badge/-SASS-c16792?style=flat&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Nginx](https://img.shields.io/badge/-Nginx-009136?style=flat&logo=nginx&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 
-#### 💻 Some of my projects:
-###### - [rosehc.pl](https://rosehc.pl) (Next.js)
-###### - [ts3ab.pl](https://pgc24.pl) (Next.js + SASS)
+#
+**📊 Stats:**
 
-#### 📫 Social Media:
-###### - Discord: SPIRING#0001
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
