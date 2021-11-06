@@ -1,12 +1,12 @@
-### Hi, I'm Kuba! 👋
-![](https://komarev.com/ghpvc/?username=sveenxx&label=PROFILE+VIEWS)
+### Hi, I'm Kacper! 👋
+![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)
 #
 
 <img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
 
 **📫 Contact:**
 
-- Discord: Sveen#0001
+- Discord: SPIRING#0001
 - Email: hello@codestation.pl
 - Website: codestation.pl
 
@@ -30,4 +30,4 @@
 #
 **📊 Stats:**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SPIRING&show_icons=true&theme=tokyonight)](https://github.com/SPIRING/github-readme-stats)
