@@ -1,5 +1,6 @@
 ### Hi, I'm Kacper! 👋
-![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)<br/>
+<img src="https://cdn.discordapp.com/attachments/903727788211720242/906624806252843018/unknown.png" />
 #
 
 <img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
