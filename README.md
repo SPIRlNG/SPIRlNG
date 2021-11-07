@@ -1,4 +1,4 @@
-### Hi, I'm Kacper! 👋
+### Hi, I'm Kacper! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)<br/>
 #
 
@@ -30,4 +30,5 @@
 #
 **📊 Stats:**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SPIRlNG&show_icons=true&theme=tokyonight)](https://github.com/SPIRlNG/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=SPIRlNG&show_icons=true&theme=tokyonight)](https://github.com/SPIRlNG/github-readme-stats) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SPIRlNG&theme=tokyonight)](https://github.com/SPIRlNG)
