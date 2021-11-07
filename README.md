@@ -2,8 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)<br/>
 #
 
-<img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
-
 **📫 Contact:**
 
 - Discord: SPIRING#0001
