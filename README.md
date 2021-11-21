@@ -23,7 +23,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 
 #
 **📊 Stats:**
