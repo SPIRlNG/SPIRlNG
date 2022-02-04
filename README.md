@@ -4,7 +4,7 @@
 
 **📫 Contact:**
 
-- Discord: SPIRING#0001
+- Discord: SPIRING#9539
 - Email: hello@codestation.pl
 - Website: codestation.pl
 
