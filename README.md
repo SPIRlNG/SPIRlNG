@@ -16,7 +16,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCSS)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
