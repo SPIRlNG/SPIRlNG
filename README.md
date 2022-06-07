@@ -1,4 +1,4 @@
-### Hi, I'm Kacper! <img width="10px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+### Hi, I'm Kacper! 👋
 ![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)<br/>
 #
 
