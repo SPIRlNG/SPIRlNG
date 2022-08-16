@@ -21,8 +21,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
 
-#
-**📊 Stats:**
-
-[![](https://github-readme-stats.vercel.app/api?username=SPIRlNG&show_icons=true&theme=tokyonight)](https://github.com/SPIRlNG/github-readme-stats) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=SPIRlNG&theme=tokyonight)](https://github.com/SPIRlNG)
