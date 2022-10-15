@@ -5,8 +5,6 @@
 **📫 Contact:**
 
 - Discord: SPIRING#9539
-- Email: hello@codestation.pl
-- Website: codestation.pl
 
 **⚒ Languages and Tools:**
 
