@@ -5,9 +5,6 @@
 
 
 ```
-SPIRING#9539
-```
-```
 hello@uvisuals.co
 ```
 
