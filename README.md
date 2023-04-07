@@ -1,12 +1,15 @@
 ### Hi, I'm Kacper! 👋
-![](https://komarev.com/ghpvc/?username=SPIRING&label=PROFILE+VIEWS)<br/>
-#
+[![](https://visitcount.itsvg.in/api?id=SPIRING&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**📫 Contact:**
+## Contact
 
-- Discord: SPIRING#9539
 
-**⚒ Languages and Tools:**
+```
+SPIRING#9539
+```
+
+## Languages and Tools
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
@@ -18,4 +21,3 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
-
