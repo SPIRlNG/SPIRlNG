@@ -15,4 +15,4 @@ hello@uvisuals.co
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SPIRING&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SPIRlNG&theme=dark&hide_border=false)<br/>
