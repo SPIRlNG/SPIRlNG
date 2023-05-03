@@ -5,7 +5,7 @@
 
 
 ```
-hello@uvisuals.co
+hello@minefy.pl
 ```
 
 ## Languages and Tools
