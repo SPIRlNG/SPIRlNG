@@ -22,7 +22,4 @@ hello@minefy.pl
   <div>
     <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=SPIRlNG&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="SPIRING's GitHub stats">
   </div>
-  <div>
-    <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SPIRlNG&theme=dracula&hide_border=true" alt="SPIRING's GitHub Streak">
-  </div>
 </details>
