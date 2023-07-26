@@ -1,5 +1,5 @@
 ### Hi, I'm Kacper! 👋
-[![](https://visitcount.itsvg.in/api?id=SPIRING&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SPIRING&style=flat-square)
 
 ## Contact
 
